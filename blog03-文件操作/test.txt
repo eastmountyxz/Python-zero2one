@@ -1,0 +1,4 @@
+大家好，我是Eastmount。
+欢迎来到Python从零到壹系列，加油！
+hello
+world
