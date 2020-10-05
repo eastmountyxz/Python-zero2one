@@ -20,6 +20,9 @@
 ## 网络爬虫
 - 正则表达式
 - urllib
+- BeautifulSoup
+- Selenium
+- Scrapy
 
 ## 大数据分析
 
