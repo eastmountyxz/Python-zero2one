@@ -5,6 +5,8 @@
 - [[Python从零到壹] 一.为什么我们要学Python及基础语法详解](https://blog.csdn.net/Eastmount/article/details/108172132)
 - [[Python从零到壹] 二.语法基础之条件语句、循环语句和函数](https://blog.csdn.net/Eastmount/article/details/108479670)
 - [[Python从零到壹] 三.语法基础之文件操作、CSV文件读写及面向对象](https://blog.csdn.net/Eastmount/article/details/108737755)
+- [[Python从零到壹] 四.网络爬虫之入门基础及正则表达式抓取博客案例](https://blog.csdn.net/Eastmount/article/details/108887652)
+
 
 ## 基础语法
 - 输入输出
