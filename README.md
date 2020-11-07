@@ -23,8 +23,10 @@
 - 正则表达式
 - urllib
 - BeautifulSoup
+- Requests
 - Selenium
 - Scrapy
+
 
 ## 大数据分析
 
