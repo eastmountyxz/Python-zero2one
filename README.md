@@ -21,12 +21,12 @@
 - 面向对象
 
 ## 网络爬虫
-- 正则表达式
--- 正则表达式抓取个人博客
+- 正则表达式 <br />
+正则表达式抓取个人博客
 - urllib
-- BeautifulSoup
--- BeautifulSoup抓取个人博客
--- BeautifulSoup抓取豆瓣Top250电影
+- BeautifulSoup <br />
+BeautifulSoup抓取个人博客 <br />
+BeautifulSoup抓取豆瓣Top250电影 <br />
 - Requests
 - Selenium
 - Scrapy
