@@ -6,6 +6,7 @@
 - [[Python从零到壹] 二.语法基础之条件语句、循环语句和函数](https://blog.csdn.net/Eastmount/article/details/108479670)
 - [[Python从零到壹] 三.语法基础之文件操作、CSV文件读写及面向对象](https://blog.csdn.net/Eastmount/article/details/108737755)
 - [[Python从零到壹] 四.网络爬虫之入门基础及正则表达式抓取博客案例](https://blog.csdn.net/Eastmount/article/details/108887652)
+- [[Python从零到壹] 五.网络爬虫之BeautifulSoup基础语法万字详解](https://blog.csdn.net/Eastmount/article/details/109497225)
 
 
 ## 基础语法
