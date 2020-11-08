@@ -22,11 +22,11 @@
 
 ## 网络爬虫
 - 正则表达式
-- 正则表达式抓取个人博客
+-- 正则表达式抓取个人博客
 - urllib
 - BeautifulSoup
-- BeautifulSoup抓取个人博客
-- BeautifulSoup抓取豆瓣Top250电影
+-- BeautifulSoup抓取个人博客
+-- BeautifulSoup抓取豆瓣Top250电影
 - Requests
 - Selenium
 - Scrapy
