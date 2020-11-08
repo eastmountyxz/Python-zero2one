@@ -22,6 +22,7 @@
 
 ## 网络爬虫
 - 正则表达式
+正则表达式抓取个人博客
 - urllib
 - BeautifulSoup
 - Requests
