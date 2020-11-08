@@ -34,7 +34,7 @@ BeautifulSoup抓取豆瓣Top250电影 <br />
 
 ## 大数据分析
 
-## 图像处理
+## 图像处理及图像识别
 
 ## 人工智能
 
@@ -45,5 +45,5 @@ BeautifulSoup抓取豆瓣Top250电影 <br />
 
 ----
 
-By：Eastmount 2020-10-03
+By：Eastmount 2020-11-08 娜璋AI安全之家
 
