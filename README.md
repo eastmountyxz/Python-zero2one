@@ -8,6 +8,7 @@
 - [[Python从零到壹] 四.网络爬虫之入门基础及正则表达式抓取博客案例](https://blog.csdn.net/Eastmount/article/details/108887652)
 - [[Python从零到壹] 五.网络爬虫之BeautifulSoup基础语法万字详解](https://blog.csdn.net/Eastmount/article/details/109497225)
 - [[Python从零到壹] 六.网络爬虫之BeautifulSoup爬取豆瓣TOP250电影详解](https://blog.csdn.net/Eastmount/article/details/113830488)
+- [[Python从零到壹] 七.网络爬虫之Requests爬取豆瓣电影TOP250及CSV存储](https://blog.csdn.net/Eastmount/article/details/113830604)
 
 
 ## 基础语法
