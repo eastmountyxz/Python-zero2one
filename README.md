@@ -9,6 +9,7 @@
 - [[Python从零到壹] 五.网络爬虫之BeautifulSoup基础语法万字详解](https://blog.csdn.net/Eastmount/article/details/109497225)
 - [[Python从零到壹] 六.网络爬虫之BeautifulSoup爬取豆瓣TOP250电影详解](https://blog.csdn.net/Eastmount/article/details/113830488)
 - [[Python从零到壹] 七.网络爬虫之Requests爬取豆瓣电影TOP250及CSV存储](https://blog.csdn.net/Eastmount/article/details/113830604)
+- [[Python从零到壹] 九.网络爬虫之Selenium基础技术万字详解（定位元素、常用方法、键盘鼠标操作）](https://blog.csdn.net/Eastmount/article/details/117376267)
 
 
 ## 基础语法
