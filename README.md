@@ -19,7 +19,7 @@
 - [[Python从零到壹] 十.Selenium爬取在线百科知识万字详解（NLP语料构造必备技能）](https://blog.csdn.net/Eastmount/article/details/118147562)
 
 数据分析
-- [Python从零到壹] 十一.数据分析之Numpy、Pandas、Matplotlib和Sklearn入门知识万字详解(1)
+- [[Python从零到壹] 十一.数据分析之Numpy、Pandas、Matplotlib和Sklearn入门知识万字详解(1)](https://blog.csdn.net/Eastmount/article/details/118302426)
 
 
 ## 基础语法
