@@ -11,6 +11,7 @@
 - [[Python从零到壹] 七.网络爬虫之Requests爬取豆瓣电影TOP250及CSV存储](https://blog.csdn.net/Eastmount/article/details/113830604)
 - [[Python从零到壹] 八.数据库之MySQL和Sqlite基础知识及操作万字详解](https://blog.csdn.net/Eastmount/article/details/114331974)
 - [[Python从零到壹] 九.网络爬虫之Selenium基础技术万字详解（定位元素、常用方法、键盘鼠标操作）](https://blog.csdn.net/Eastmount/article/details/117376267)
+- [[Python从零到壹] 十.Selenium爬取在线百科知识万字详解（NLP语料构造必备技能）](https://blog.csdn.net/Eastmount/article/details/118147562)
 
 
 ## 基础语法
