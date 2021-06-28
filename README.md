@@ -3,13 +3,13 @@
 
 对应文章： <br />
 
-基础语法
+**基础语法**
 - [[Python从零到壹] 一.为什么我们要学Python及基础语法详解](https://blog.csdn.net/Eastmount/article/details/108172132)
 - [[Python从零到壹] 二.语法基础之条件语句、循环语句和函数](https://blog.csdn.net/Eastmount/article/details/108479670)
 - [[Python从零到壹] 三.语法基础之文件操作、CSV文件读写及面向对象](https://blog.csdn.net/Eastmount/article/details/108737755)
 
 
-网络爬虫
+**网络爬虫**
 - [[Python从零到壹] 四.网络爬虫之入门基础及正则表达式抓取博客案例](https://blog.csdn.net/Eastmount/article/details/108887652)
 - [[Python从零到壹] 五.网络爬虫之BeautifulSoup基础语法万字详解](https://blog.csdn.net/Eastmount/article/details/109497225)
 - [[Python从零到壹] 六.网络爬虫之BeautifulSoup爬取豆瓣TOP250电影详解](https://blog.csdn.net/Eastmount/article/details/113830488)
@@ -18,7 +18,7 @@
 - [[Python从零到壹] 九.网络爬虫之Selenium基础技术万字详解（定位元素、常用方法、键盘鼠标操作）](https://blog.csdn.net/Eastmount/article/details/117376267)
 - [[Python从零到壹] 十.Selenium爬取在线百科知识万字详解（NLP语料构造必备技能）](https://blog.csdn.net/Eastmount/article/details/118147562)
 
-数据分析
+**数据分析**
 - [[Python从零到壹] 十一.数据分析之Numpy、Pandas、Matplotlib和Sklearn入门知识万字详解(1)](https://blog.csdn.net/Eastmount/article/details/118302426)
 
 
@@ -48,6 +48,8 @@ BeautifulSoup抓取豆瓣Top250电影 <br />
 ## 大数据分析
 
 ## 图像处理及图像识别
+
+## 文本挖掘
 
 ## 人工智能
 
