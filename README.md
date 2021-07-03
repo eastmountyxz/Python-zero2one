@@ -18,8 +18,9 @@
 - [[Python从零到壹] 九.网络爬虫之Selenium基础技术万字详解（定位元素、常用方法、键盘鼠标操作）](https://blog.csdn.net/Eastmount/article/details/117376267)
 - [[Python从零到壹] 十.Selenium爬取在线百科知识万字详解（NLP语料构造必备技能）](https://blog.csdn.net/Eastmount/article/details/118147562)
 
-**数据分析**
+**数据分析+机器学习**
 - [[Python从零到壹] 十一.数据分析之Numpy、Pandas、Matplotlib和Sklearn入门知识万字详解(1)](https://blog.csdn.net/Eastmount/article/details/118302426)
+- [[Python从零到壹] 十二.机器学习之回归分析万字总结全网首发（线性回归、多项式回归、逻辑回归）](https://blog.csdn.net/Eastmount/article/details/118435877)
 
 
 ## 基础语法
