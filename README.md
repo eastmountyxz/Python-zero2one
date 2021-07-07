@@ -1,6 +1,9 @@
 # Python-zero2one
 该资源是Python从零到壹相关代码及文章，希望对您有所帮助~
 
+打造全网最详细的Python系列，供大家学习。 <br />
+- [https://blog.csdn.net/eastmount/category_10324808.html](https://blog.csdn.net/eastmount/category_10324808.html)
+
 对应文章： <br />
 
 ---
