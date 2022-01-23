@@ -34,7 +34,20 @@
 - [[Python从零到壹] 十六.文本挖掘之词云热点与LDA主题分布分析万字详解](https://blog.csdn.net/Eastmount/article/details/119538373)
 - [[Python从零到壹] 十七.可视化分析之Matplotlib、Pandas、Echarts入门万字详解](https://blog.csdn.net/Eastmount/article/details/119888324)
 - [[Python从零到壹] 十八.可视化分析之Basemap地图包入门详解](https://blog.csdn.net/Eastmount/article/details/121206268)
-
+- [Python从零到壹] 十九.可视化分析之热力图和箱图绘制及应用详解
+- [Python从零到壹] 二十.可视化分析之Seaborn绘图万字详解
+- [Python从零到壹] 二十一.可视化分析之Pyechart绘图万字详解
+- [Python从零到壹] 二十二.可视化分析之OpenGL绘图万字详解
+- [Python从零到壹] 二十三.十大机器学习算法之决策树分类分析详解(1)
+- [Python从零到壹] 二十四.十大机器学习算法之KMeans聚类分析详解(2)
+- [Python从零到壹] 二十五.十大机器学习算法之KNN算法及图像分类详解(3)
+- [Python从零到壹] 二十六.十大机器学习算法之朴素贝叶斯算法及文本分类详解(4)
+- [Python从零到壹] 二十七.十大机器学习算法之线性回归算法分析详解(5)
+- [Python从零到壹] 二十八.十大机器学习算法之SVM算法分析详解(6)
+- [Python从零到壹] 二十九.十大机器学习算法之随机森林算法分析详解(7)
+- [Python从零到壹] 三十.十大机器学习算法之逻辑回归算法及恶意请求检测应用详解(8)
+- [Python从零到壹] 三十一.十大机器学习算法之Boosting和AdaBoost应用详解(9)
+- [Python从零到壹] 三十二.十大机器学习算法之层次聚类和树状图聚类应用详解(10)
 
 
 
