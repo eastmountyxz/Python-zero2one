@@ -28,7 +28,12 @@
 **数据分析+机器学习**
 - [[Python从零到壹] 十一.数据分析之Numpy、Pandas、Matplotlib和Sklearn入门知识万字详解(1)](https://blog.csdn.net/Eastmount/article/details/118302426)
 - [[Python从零到壹] 十二.机器学习之回归分析万字总结全网首发（线性回归、多项式回归、逻辑回归）](https://blog.csdn.net/Eastmount/article/details/118435877)
-
+- [[Python从零到壹] 十三.机器学习之聚类分析万字总结全网首发（K-Means、BIRCH、层次聚类、树状聚类）](https://blog.csdn.net/Eastmount/article/details/118518130)
+- [[Python从零到壹] 十四.机器学习之分类算法三万字总结全网首发（决策树、KNN、SVM、分类算法对比）](https://blog.csdn.net/Eastmount/article/details/118524484)
+- [[Python从零到壹] 十五.文本挖掘之数据预处理、Jieba工具和文本聚类万字详解](https://blog.csdn.net/Eastmount/article/details/119464508)
+- [[Python从零到壹] 十六.文本挖掘之词云热点与LDA主题分布分析万字详解](https://blog.csdn.net/Eastmount/article/details/119538373)
+- [[Python从零到壹] 十七.可视化分析之Matplotlib、Pandas、Echarts入门万字详解](https://blog.csdn.net/Eastmount/article/details/119888324)
+- [[Python从零到壹] 十八.可视化分析之Basemap地图包入门详解](https://blog.csdn.net/Eastmount/article/details/121206268)
 
 
 
