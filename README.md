@@ -10,13 +10,13 @@
 
 ## 文章目录
 
-**基础语法**
+**第一部分 基础语法**
 - [[Python从零到壹] 一.为什么我们要学Python及基础语法详解](https://blog.csdn.net/Eastmount/article/details/108172132)
 - [[Python从零到壹] 二.语法基础之条件语句、循环语句和函数](https://blog.csdn.net/Eastmount/article/details/108479670)
 - [[Python从零到壹] 三.语法基础之文件操作、CSV文件读写及面向对象](https://blog.csdn.net/Eastmount/article/details/108737755)
 
 
-**网络爬虫**
+**第二部分 网络爬虫**
 - [[Python从零到壹] 四.网络爬虫之入门基础及正则表达式抓取博客案例](https://blog.csdn.net/Eastmount/article/details/108887652)
 - [[Python从零到壹] 五.网络爬虫之BeautifulSoup基础语法万字详解](https://blog.csdn.net/Eastmount/article/details/109497225)
 - [[Python从零到壹] 六.网络爬虫之BeautifulSoup爬取豆瓣TOP250电影详解](https://blog.csdn.net/Eastmount/article/details/113830488)
@@ -25,7 +25,7 @@
 - [[Python从零到壹] 九.网络爬虫之Selenium基础技术万字详解（定位元素、常用方法、键盘鼠标操作）](https://blog.csdn.net/Eastmount/article/details/117376267)
 - [[Python从零到壹] 十.Selenium爬取在线百科知识万字详解（NLP语料构造必备技能）](https://blog.csdn.net/Eastmount/article/details/118147562)
 
-**数据分析+机器学习**
+**第三部分 数据分析+机器学习**
 - [[Python从零到壹] 十一.数据分析之Numpy、Pandas、Matplotlib和Sklearn入门知识万字详解(1)](https://blog.csdn.net/Eastmount/article/details/118302426)
 - [[Python从零到壹] 十二.机器学习之回归分析万字总结全网首发（线性回归、多项式回归、逻辑回归）](https://blog.csdn.net/Eastmount/article/details/118435877)
 - [[Python从零到壹] 十三.机器学习之聚类分析万字总结全网首发（K-Means、BIRCH、层次聚类、树状聚类）](https://blog.csdn.net/Eastmount/article/details/118518130)
