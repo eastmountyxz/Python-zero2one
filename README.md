@@ -52,8 +52,10 @@
 
 **第四部分 Python图像处理基础**
 - [[Python从零到壹] 三十三.图像处理基础篇之什么是图像处理和OpenCV配置](https://blog.csdn.net/Eastmount/article/details/122642008)
+- 
 
 **第五部分 Python图像运算和图像增强**
+- [Python从零到壹] 四十五.图像增强及运算篇之图像灰度非线性变换详解
 
 **第六部分 Python图像识别和图像处理经典案例**
 
