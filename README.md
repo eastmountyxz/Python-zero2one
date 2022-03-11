@@ -63,6 +63,8 @@
 - [[Python从零到壹] 四十二.图像处理基础篇之图像金字塔向上取样和向下取样](https://blog.csdn.net/Eastmount/article/details/122868296)
 
 **第五部分 Python图像运算和图像增强**
+- [[Python从零到壹] 四十三.图像增强及运算篇之图像点运算和图像灰度化处理](https://blog.csdn.net/Eastmount/article/details/123006082)
+- [[Python从零到壹] 四十四.图像增强及运算篇之图像灰度线性变换详解](https://blog.csdn.net/Eastmount/article/details/123191792)
 - [Python从零到壹] 四十五.图像增强及运算篇之图像灰度非线性变换详解
 
 **第六部分 Python图像识别和图像处理经典案例**
