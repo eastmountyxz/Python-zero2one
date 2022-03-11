@@ -52,7 +52,15 @@
 
 **第四部分 Python图像处理基础**
 - [[Python从零到壹] 三十三.图像处理基础篇之什么是图像处理和OpenCV配置](https://blog.csdn.net/Eastmount/article/details/122642008)
-- 
+- [[Python从零到壹] 三十四.OpenCV入门详解——显示读取修改及保存图像](https://blog.csdn.net/Eastmount/article/details/122654530)
+- [[Python从零到壹] 三十五.图像处理基础篇之OpenCV绘制各类几何图形](https://blog.csdn.net/Eastmount/article/details/122672135)
+- [[Python从零到壹] 三十六.图像处理基础篇之图像算术与逻辑运算详解](https://blog.csdn.net/Eastmount/article/details/122692101)
+- [[Python从零到壹] 三十七.图像处理基础篇之图像融合处理和ROI区域绘制](https://blog.csdn.net/Eastmount/article/details/122710392)
+- [[Python从零到壹] 三十八.图像处理基础篇之图像几何变换（平移缩放旋转）](https://blog.csdn.net/Eastmount/article/details/122723951)
+- [[Python从零到壹] 三十九.图像处理基础篇之图像几何变换（镜像仿射透视）](https://blog.csdn.net/Eastmount/article/details/122746238)
+- [[Python从零到壹] 四十.图像处理基础篇之图像量化处理](https://blog.csdn.net/Eastmount/article/details/122789859)
+- [[Python从零到壹] 四十一.图像处理基础篇之图像采样处理](https://blog.csdn.net/Eastmount/article/details/122812908)
+- [[Python从零到壹] 四十二.图像处理基础篇之图像金字塔向上取样和向下取样](https://blog.csdn.net/Eastmount/article/details/122868296)
 
 **第五部分 Python图像运算和图像增强**
 - [Python从零到壹] 四十五.图像增强及运算篇之图像灰度非线性变换详解
