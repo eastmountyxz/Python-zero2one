@@ -71,8 +71,8 @@
 - [[Python从零到壹] 四十八.图像增强及运算篇之形态学开运算、闭运算和梯度运算](https://blog.csdn.net/Eastmount/article/details/125178579)
 - [[Python从零到壹] 四十九.图像增强及运算篇之顶帽运算和底帽运算](https://blog.csdn.net/Eastmount/article/details/125959487)
 - [[Python从零到壹] 五十.图像增强及运算篇之图像直方图理论知识和绘制实现](https://blog.csdn.net/Eastmount/article/details/126276211)
-- [Python从零到壹] 五十一.图像增强及运算篇之图像灰度直方图对比分析万字详解
-- [Python从零到壹] 五十二.图像增强及运算篇之图像掩膜直方图和HS直方图
+- [[Python从零到壹] 五十一.图像增强及运算篇之图像灰度直方图对比分析万字详解](https://blog.csdn.net/Eastmount/article/details/126295465)
+- [[Python从零到壹] 五十二.图像增强及运算篇之图像掩膜直方图和HS直方图](https://blog.csdn.net/Eastmount/article/details/126370183)
 
 **第六部分 Python图像识别和图像处理经典案例**
 
