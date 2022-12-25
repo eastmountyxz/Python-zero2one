@@ -73,8 +73,13 @@
 - [[Python从零到壹] 五十.图像增强及运算篇之图像直方图理论知识和绘制实现](https://blog.csdn.net/Eastmount/article/details/126276211)
 - [[Python从零到壹] 五十一.图像增强及运算篇之图像灰度直方图对比分析万字详解](https://blog.csdn.net/Eastmount/article/details/126295465)
 - [[Python从零到壹] 五十二.图像增强及运算篇之图像掩膜直方图和HS直方图](https://blog.csdn.net/Eastmount/article/details/126370183)
-- [Python从零到壹] 五十三.图像增强及运算篇之直方图均衡化处理 
-
+- [[Python从零到壹] 五十三.图像增强及运算篇之直方图均衡化处理](https://blog.csdn.net/Eastmount/article/details/126799744)
+- [[Python从零到壹] 五十四.图像增强及运算篇之局部直方图均衡化和自动色彩均衡化处理](https://blog.csdn.net/Eastmount/article/details/127188385)
+- [[Python从零到壹] 五十五.图像增强及运算篇之图像平滑（均值滤波、方框滤波、高斯滤波）](https://blog.csdn.net/Eastmount/article/details/127485114)
+- [[Python从零到壹] 五十六.图像增强及运算篇之图像平滑（中值滤波、双边滤波）](https://blog.csdn.net/Eastmount/article/details/128066004)
+- [[Python从零到壹] 五十七.图像增强及运算篇之图像锐化Roberts、Prewitt算子实现边缘检测](https://blog.csdn.net/Eastmount/article/details/128303090)
+- [[Python从零到壹] 五十八.图像增强及运算篇之图像锐化Sobel、Laplacian算子实现边缘检测](https://blog.csdn.net/Eastmount/article/details/128352770)
+- [[Python从零到壹] 五十九.图像增强及运算篇之图像锐化Scharr、Canny、LOG实现边缘检测](https://blog.csdn.net/Eastmount/article/details/128397285)
 
 **第六部分 Python图像识别和图像处理经典案例**
 
