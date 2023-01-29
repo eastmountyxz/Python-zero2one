@@ -1,0 +1,18 @@
+.box{
+    margin: 10% auto;
+    width: 1500px;
+    height: 400px;
+    background-color: #fff;
+}
+
+.title{
+    font-size: 20px;
+}
+
+.text{
+    font-size: 10px;
+}
+
+.label{
+    font-size: 12px;
+}
