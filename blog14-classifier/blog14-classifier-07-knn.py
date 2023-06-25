@@ -10,7 +10,7 @@ from matplotlib.colors import ListedColormap
 
 #----------------------------------------------------------------------------
 #第一步 加载数据集
-path = "wine/wine.txt"
+path = "wine/wine.data"
 data = np.loadtxt(path,dtype=float,delimiter=",")
 print(data)
 

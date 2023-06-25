@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-  
 import os 
 import numpy as np
-path = "wine/wine.txt"
+path = "wine/wine.data"
 data = np.loadtxt(path,dtype=float,delimiter=",")
 print(data)
 
